@@ -1,4 +1,5 @@
-[![they/them pronouns](https://img.shields.io/badge/pronouns-they%2Fthem-dabdab)](https://pronoun.is/they/them)
+[![they/them pronouns](https://img.shields.io/badge/pronouns-they%2Fthem-dabdab)](https://pronoun.is/they/them)[![he/him pronouns](https://img.shields.io/badge/pronouns-he%2Ftjhim-dabdab)](https://pronoun.is/he/him)
+
 
 
 #Sorry, the site you have come to is still under construction. Come back later!
