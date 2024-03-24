@@ -1,4 +1,4 @@
-[![they/them pronouns](https://img.shields.io/badge/pronouns-they%2Fthem-dabdab)](https://pronoun.is/they/them)[![he/him pronouns](https://img.shields.io/badge/pronouns-he%2Ftjhim-dabdab)](https://pronoun.is/he/him)
+[![they/them pronouns](https://img.shields.io/badge/pronouns-they%2Fthem-dabdab)](https://pronoun.is/they/them)[![he/him pronouns](https://img.shields.io/badge/pronouns-he%2Fhim-dabdab)](https://pronoun.is/he/him)[![she/her pronouns](https://img.shields.io/badge/pronouns-she%2Fher-dabdab)](https://pronoun.is/she/her)
 
 
 
